@@ -25,7 +25,7 @@ useEffect(() => {
 }, []);
     return (
      <div className = "app">
-<h1>ChillyFlix</h1>
+<h1>ChillFlix</h1>
 <div className= "search">
 <input
 placeholder="Search for movies"
